@@ -1,6 +1,0 @@
-cybotrade>=1.4.20
-colorlog>=6.7.0
-TA-lib>=0.4.26  
-pandas>=2.0.2
-matplotlib>=3.7.1
-ccxt>=4.2.85
